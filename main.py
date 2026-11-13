@@ -1,1 +1,4 @@
-print ("Bienvenido a tu gestor financiero")
+
+mensaje = "Bienvenido a tu gestor financiero"
+
+print (mensaje)
